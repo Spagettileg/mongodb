@@ -19,7 +19,7 @@ Django>=2.0.11
 dnspython==1.16.0
 docutils==0.14
 hibagent==1.0.1
-httplib2==0.18.0
+httplib2==0.19.0
 hyperlink==17.3.1
 idna==2.6
 ikp3db==1.1.4
